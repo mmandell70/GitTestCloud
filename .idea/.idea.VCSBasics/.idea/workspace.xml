@@ -4,11 +4,21 @@
     <projectFile>VCSBasics/VCSBasics.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74b34ee3-a08b-4b2a-b4da-4823e93eae0b" name="Changes" comment="" />
+    <list default="true" id="74b34ee3-a08b-4b2a-b4da-4823e93eae0b" name="Changes" comment="Added more welcome messages!">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VCSBasics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VCSBasics/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/mark.mandell/Library/Application Support/JetBrains/Rider2022.2/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mark.mandell/Library/Application Support/JetBrains/Rider2022.2/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mark.mandell/Library/Application Support/JetBrains/Rider2022.2/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mark.mandell/Library/Application Support/JetBrains/Rider2022.2/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/mark.mandell/Library/Application Support/JetBrains/Rider2022.2/resharper-host/RiderTutorials/Tutorials/T10/VCSBasics/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VCSBasics/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -19,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.ChangelistConflict&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="VCSBasics" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -63,6 +73,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
